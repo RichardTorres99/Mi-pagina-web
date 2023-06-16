@@ -14,6 +14,6 @@
   <p>Con todo mi amor,<br>
   Tu amado amor </p>
   
-  <img src="nombre_de_la_imagen.jpg" alt="Descripción de la imagen">
+  <img src="WhatsApp Image 2023-06-16 at 11.11.56 AM.jpeg" alt="Descripción de la imagen">
 </body>
 </html>
