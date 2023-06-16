@@ -12,7 +12,7 @@
   <p>Hoy quiero recordarte que siempre estaré aquí para ti, para apoyarte en cada paso que des y para celebrar tus logros. Eres una persona increíble y estoy agradecido por tenerte en mi vida.</p>
   <p>Que este mensaje ilumine tu día y te recuerde cuánto te amo. Eres mi mayor bendición y siempre serás el latido de mi corazón.</p>
   <p>Con todo mi amor,<br>
-  Tu amado amor </p>
+  Tu amado amor. </p>
   
   <img src="WhatsApp Image 2023-06-16 at 11.11.56 AM.jpeg" alt="Descripción de la imagen">
 </body>
